@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/act_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/jhansla2">
+    <TextView
+        android:id="@+id/option"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select an option"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:fontFamily="cursive"
+        android:textColor="#df9fbf" />
+    <TextView
+        android:id="@+id/option1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="17dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_gravity="center"
+        android:textColor="#ff0000"
+        android:text="Hotels"/>
+    <TextView
+        android:id="@+id/option2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_gravity="center"
+        android:layout_margin="17dp"
+        android:textColor="#ff0000"
+        android:text="Colleges"/>
+    <TextView
+        android:id="@+id/option3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_gravity="center"
+        android:layout_margin="17dp"
+        android:textColor="#ff0000"
+        android:text="Parks"/>
+    <TextView
+        android:id="@+id/option4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_gravity="center"
+        android:layout_margin="17dp"
+        android:textColor="#ff0000"
+        android:text="Hospital"/>
+</LinearLayout>

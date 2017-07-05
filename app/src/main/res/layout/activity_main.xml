@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/jhansla"
+    tools:context="com.example.android.tourguidance.MainActivity">
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:fontFamily="cursive"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:text="The Great City - JHANSLA"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tour Guide"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/textview1"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#70FF0000"
+        android:layout_centerHorizontal="true"
+        android:text="checkout the city by clicking "
+        android:layout_alignParentBottom="true"
+        android:onClick="mainpage"/>
+</RelativeLayout>

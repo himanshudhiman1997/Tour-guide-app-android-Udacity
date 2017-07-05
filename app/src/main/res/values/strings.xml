@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tour Guidance</string>
+    <string name="chitkara">Chitkara University</string>
+    <string name="sviet">SVIET</string>
+    <string name="thapar">Thapar University</string>
+    <string name="gyan">Gyan Sagar Medical College</string>
+    <string name="punjabi">Punjabi University</string>
+    <string name="chandigarh">Chandigarh University</string>
+    <string name="skiet">SKIET</string>
+
+    <string name="anand">Anand Hospital</string>
+    <string name="apollo">Apollo Hospital</string>
+    <string name="babycare">Baby Care Hospital</string>
+    <string name="fortis">Fortis Hospital</string>
+    <string name="manipal">Manipal Hospital</string>
+    <string name="max">Max Hospital</string>
+    <string name="moorfields">MoorFields Hospital</string>
+    <string name="columbia">Columbia Hospital</string>
+
+    <string name="galileo">Galileo Park</string>
+    <string name="fleming">Fleming Park</string>
+    <string name="edison">Edison Park</string>
+    <string name="babbage">Babbage Park</string>
+    <string name="turing">Turing Park</string>
+    <string name="bloom">Bloom Park</string>
+    <string name="newton">Newton Park</string>
+
+    <string name="crown">Hotel Crown</string>
+    <string name="jw">JW Marriott Hotel</string>
+    <string name="taj">Taj Hotel</string>
+    <string name="eagle">Eagle Hotel</string>
+    <string name="westin">Hotel Westin</string>
+    <string name="simran">Hotel Simran</string>
+</resources>
